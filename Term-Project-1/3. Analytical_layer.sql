@@ -1,6 +1,6 @@
 -- -- -- -- -- -- -- -- -- -- --  --  --  --  -- ANALYTICAL LAYER -- -- -- -- -- -- -- -- -- -- --  --  --  --  --  --
  
-					       # ------------------------------------------------------- #
+                           # ------------------------------------------------------- #
                            #                      STORED PROCEDURE                   #
                            # ------------------------------------------------------- #
 
@@ -58,6 +58,6 @@ SELECT * FROM SalesInfo;
 -- As there were 2240 orders in the operational data set, this code also shows the new table has the same number of rows so it is functional
 SELECT count(*) FROM SalesInfo;
 
---  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
+--  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
 
 
