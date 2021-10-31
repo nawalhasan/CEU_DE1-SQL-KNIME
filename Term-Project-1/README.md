@@ -44,7 +44,7 @@ The questions are answered using sql functions taught in class such as aggregati
 ### Q2. What is the revenue made by US, Germany, and Hungary in the given years?
 ### Q3. Which tracks were popular, and which were unpopular?
 ### Q4. Return 10 tracks with a revenue of less than 5$
-### Q5. What was the date on which maximum revenue was made by the store and for which album?
+### Q5. What was the date on which maximum revenue was made by the store?
 
 
 # 5.	PRACTISE CODES
