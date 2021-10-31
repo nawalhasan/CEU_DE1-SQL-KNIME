@@ -34,7 +34,7 @@ The salesInfo table was created by carefully picking relevant dimensions that se
 Using this I created a stored procedure that will return answers to my questions posted below. This procedure was created using inner joins and left join on InvoiceLine.  I also added triggers to show a new order in the messages table. Lastly, I added an event to show to add a new row to the Album table with an Album Id and an Album Name.
 
 <p align="center">
-  <img src="https://github.com/nawalhasan/CEU_DE1-SQL-KNIME/blob/main/Term-Project-1/Star_shema.png" />
+  <img src="https://github.com/nawalhasan/CEU_DE1-SQL-KNIME/blob/main/Term-Project-1/Star_schema.png" />
 </p>
 
 # 4.	DATA MARTS
