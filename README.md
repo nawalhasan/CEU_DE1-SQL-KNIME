@@ -1,6 +1,6 @@
 # Data Engineering 1: SQL and Different Shapes of Data
 
-This repository is dedicated to all the assignments for SQL and different shapes of data. In this course we learnt how to manipulate database WITH SQL using MYSQL as Relational Database Management System.
+This repository is dedicated to all the assignments for SQL and different shapes of data. In this course we learnt how to manipulate database with SQL using MYSQL as Relational Database Management System.
 
 # Course Content:
 
