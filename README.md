@@ -23,6 +23,6 @@ sources
 
 Please click on the hyperlink to find the code and reports created for the assignments.
 
-**1. SQL **: [Individual Term Project](https://github.com/nawalhasan/CEU_Data-Engineering-SQL-Knime/tree/main/Term-Project-1)
+**1. SQL**: [Individual Term Project](https://github.com/nawalhasan/CEU_Data-Engineering-SQL-Knime/tree/main/Term-Project-1)
 
-**2. KNIME **: [Group Project](https://github.com/nawalhasan/CEU_Data-Engineering-SQL-Knime/tree/main/Term-Project-2)
+**2. KNIME**: [Group Project](https://github.com/nawalhasan/CEU_Data-Engineering-SQL-Knime/tree/main/Term-Project-2)
